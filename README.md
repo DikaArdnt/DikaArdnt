@@ -63,7 +63,7 @@ while I am listening music.
 <p align = "justify">I love watching anime. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=react,express,js,html,css,mongodb,netlify,jquery,github&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=react,express,js,html,css,mongodb,netlify,github&perline=8"alt="My Skills"/> 
     </a>
 </p>
 </div>
@@ -129,4 +129,4 @@ while I am listening music.
     
 <h1 align="center">Support Me ♥️ </h1>
 
-<a href="https://ko-fi.com/cak_haho" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/ko_fi_icon_130894.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://ko-fi.com/cak_haho" target="_blank"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
