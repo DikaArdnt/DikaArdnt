@@ -51,7 +51,7 @@ while I am listening music.
 <br>
 <br>
 
-<p align="right"><a href="https://www.youtube.com/watch?v=IfMqM-AtnQk"><img src="https://t2.genius.com/unsafe/252x252/https%3A%2F%2Fimages.genius.com%2F3aa85959aa98050f1efcb95fdab4ed53.1000x1000x1.png" width="170" align="left"></a><b><br>『ユイカ』(Yuika) - 好きだから。(Sukidakara) </b></p>
+<p align="right"><a href="https://www.youtube.com/watch?v=IfMqM-AtnQk"><img src="https://i.ytimg.com/vi/IfMqM-AtnQk/hqdefault.jpg" width="170" align="left"></a><b><br>Yuika - Sukidakara 好きだから ft. Ren</b></p>
 <br>
 </div>
 <br>
