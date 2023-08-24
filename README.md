@@ -12,7 +12,7 @@
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
-```zsh
+```sh
 > profile
 ```
 
@@ -28,11 +28,9 @@ FavouriteAnime: オーバーロード (Overlord).
 Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
 Pronouns: He-Him.
 Location: Planet Kepler-452b.
-Hobbyes: Watching Anime and Read Manga.
 FavouriteSong: Official髭男dism - Pretender.
 Hobbies: Watching anime, Read Manga 
 while I am listening music.
-
 ```
 
 
@@ -129,4 +127,4 @@ while I am listening music.
     
 <h1 align="center">Support Me ♥️ </h1>
 
-<a href="https://ko-fi.com/cak_haho" target="_blank"><img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e11149b3af2ee970bb8ead_Ko-fi_logo.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://saweria.co/DikaArdnt" target="_blank"><img src="https://saweria.co/twitter_card.png" alt="Yes Yes" style="height: 60px !important;width: 217px !important;" ></a>
