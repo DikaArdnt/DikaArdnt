@@ -21,7 +21,7 @@
 ```csharp
 My Profile
 -------------------------------
-Host : dikaardnt.com
+Host: dikaardnt.com
 Username: Dika Ardnt.
 WhoamI: Normal People.
 Telegram: @cak_haho.
