@@ -21,13 +21,14 @@
 ```csharp
 My Profile
 -------------------------------
+Host : dikaardnt.com
 Username: Dika Ardnt.
 WhoamI: Normal People.
 Telegram: @cak_haho.
 FavouriteAnime: オーバーロード (Overlord).
 Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
 Pronouns: He-Him.
-Location: Planet Kepler-452b.
+Location: Jawa Timur.
 FavouriteSong: Official髭男dism - Pretender.
 Hobbies: Watching anime, Read Manga 
 while I am listening music.
@@ -124,7 +125,3 @@ while I am listening music.
   </div>
 <br> 
 <br>
-    
-<h1 align="center">Support Me ♥️ </h1>
-
-<a href="https://saweria.co/DikaArdnt" target="_blank"><img src="https://saweria.co/twitter_card.png" alt="Yes Yes" style="height: 60px !important;width: 217px !important;" ></a>
