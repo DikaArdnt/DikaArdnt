@@ -1,7 +1,20 @@
-<h1 align="center">Hi there I'm Dika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Dika</h1>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=DikaArdnt&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
 </p>
+
+<p align="center">
+  <a href="https://github.com/DikaArdnt"><img src="https://github-readme-stats.vercel.app/api?username=DikaArdnt&show_icons=true&hide_title=true&theme=tokyonight" alt="GitHub Stats" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DikaArdnt"><img src="https://github-readme-streak-stats.herokuapp.com?user=DikaArdnt&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DikaArdnt"><img src="https://github-profile-trophy.vercel.app/?username=DikaArdnt&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
+</p>
+<br>
 
 <body>
 <br>
@@ -28,7 +41,7 @@ Telegram: @cak_haho.
 FavouriteAnime: オーバーロード (Overlord).
 Loves: タツマキ (Tatsumaki) (❤️ ω ❤️), Anime 🎮, Manga 🎹.
 Pronouns: He-Him.
-Location: Jawa Timur.
+Location: Indonesian, Jawa Timur.
 FavouriteSong: Official髭男dism - Pretender.
 Hobbies: Watching anime, Read Manga 
 while I am listening music.
@@ -41,16 +54,16 @@ while I am listening music.
 <br>
 <br>
 
-<p align="right"><a href = "https://www.youtube.com/watch?v=TQ8WlA2GXbk"><img src = "https://i.ytimg.com/vi/TQ8WlA2GXbk/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>Official髭男dism - Pretender</b></p>
+<p align="right"><a href = "https://music.youtube.com/watch?v=TQ8WlA2GXbk&si=joHbXf4EG5-93Y0P"><img src = "https://i.ytimg.com/vi/TQ8WlA2GXbk/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>Official髭男dism - Pretender</b></p>
 <br>
 <br>
 
-<p align="left"><a href = "https://www.youtube.com/watch?v=yO8nx8-SLYE"><img  src ="https://i.ytimg.com/vi/yO8nx8-SLYE/maxresdefault.jpg" width="170" align="right"></a><b><br><br>「Baton Road / バトンロード」 MV Rip off</b></p>
+<p align="left"><a href = "https://music.youtube.com/watch?v=766qmHTc2ro&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/766qmHTc2ro/maxresdefault.webp" width="170" align="right"></a><b><br><br>Minami 美波 – Ame wo Matsu, アメヲマツ、</b></p>
 
 <br>
 <br>
 
-<p align="right"><a href="https://www.youtube.com/watch?v=IfMqM-AtnQk"><img src="https://i.ytimg.com/vi/IfMqM-AtnQk/hqdefault.jpg" width="170" align="left"></a><b><br>Yuika - Sukidakara 好きだから ft. Ren</b></p>
+<p align="right"><a href="https://music.youtube.com/watch?v=fE9trKOuT3Q&si=BkSxh-TtURQsoAfx"><img src="https://i.ytimg.com/vi_webp/fE9trKOuT3Q/maxresdefault.webp" width="170" align="left"></a><b><br>LONGMAN - spiral</b></p>
 <br>
 </div>
 <br>
@@ -59,69 +72,48 @@ while I am listening music.
 <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">I love watching anime. <br></p>
+<p align = "justify">Interests and Passions. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=react,express,js,html,css,mongodb,netlify,github&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,express,mongodb,firebase,nodejs,git,vscode&perline=8"alt="My Skills"/> 
     </a>
 </p>
 </div>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<h2 align = "center"> 📉 GitHub Stats</h2>
-<div> 
-<p align = "center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DikaArdnt&count_private=true&theme=radical&show_icons=true&hide_border=false"/>
-    </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DikaArdnt&theme=radical&hide_border=false&date_format=%5BY%20%5DM%20j"/>
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=DikaArdnt&theme=juicyfresh&row=4&column=4"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DikaArdnt&hide_border=false&theme=radical&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%" />
-    </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="120%" alt="Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=DikaArdnt&theme=redical"/>
-    </a>
-</p>
-</div>
-<br>
-<br>
-
-
 
 <br>
 
-<h2 align ="center"> 📝 Contact me 📝</h2>
+<h2 align ="center"> 📝 Connect With Me 📝</h2>
 <br> 
 <div align="center">
-<a href="https://github.com/DikaArdnt" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://dikaardnt.com" target="_blank">
+<img src=https://img.shields.io/badge/Portfolio-E4405F?style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a> 
+<a href="https://instagram.com/cak_haho" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+<a href="https://t.me/cak_haho" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Cakhaho" target="_blank">
+<a href="https://facebook.com/Haho.id" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%2300acee.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Haho.id" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/cak_haho" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  <br><img src = "https://media.tenor.com/8W0aS68VgF0AAAAC/shalltear-overlord.gif" width = "400"/>
+<br>
+<br>
+<br>
+<img src = "https://media.tenor.com/8W0aS68VgF0AAAAC/shalltear-overlord.gif" width = "400"/>
 </div>  
-
-
 
 </div>  
 <br>
 <div>
-<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<h2 align="center">Thank you for reading</h2>
 <div>
 <p align="center">
     <img src="https://i.pinimg.com/originals/81/5c/29/815c2961079c1a0fae417745b8d26c4d.gif"/>
    </p>
   </div>
-<br> 
 <br>
