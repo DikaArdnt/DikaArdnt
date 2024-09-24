@@ -75,7 +75,7 @@ while I am listening music.
 <p align = "justify">Interests and Passions. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,express,mongodb,firebase,nodejs,git,vscode,go,php,laravel&perline=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,express,mongodb,firebase,nodejs,git,vscode,go,php,laravel,prisma&perline=8"alt="My Skills"/> 
     </a>
 </p>
 </div>
