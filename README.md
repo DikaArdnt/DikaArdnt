@@ -1,25 +1,13 @@
 <div align="center">
-    <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Dika Ardianta&l0=none&bg=none&frame=none&speed=100&comment=">
-    </a>
     <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=DikaArdnt&style=for-the-badge&color=1C8C8C">
-        <a href="https://www.dikaardnt.com/links">
-            <img  draggable="false" style="witdh:119xp;height:20xp;"src="https://img.shields.io/badge/Bio Link-2CA5E0?style=for-the-badge&logo=Bio Link&logoColor=white">
-        </a>
+        <img align="center" alt="count" src="https://count.getloli.com/@DikaArdnt?name=DikaArdnt&theme=booru-lewd">
     </p>
 </div>
 
-<body>
-<br>
-<div align="center">
-<img src="https://media1.tenor.com/m/z8NLABpmEqEAAAAC/rudeus-greyrat.gif" width="300px">
-</div>
-<br>
-
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 
-Dika here! I'm a Software Engineer from Indonesia, currently working in PHP (Laravel) and Javascript. I primarily do backend development. I don't have anything special, but I hope to be able to change that in the future.
+Dika here! I'm a Software Engineer from Indonesia, currently working in PHP (Laravel) and Javascript. I primarily do backend development. I don't have
+anything special, but I hope to be able to change that in the future.
 
 My hobbies include watching Anime, Reading Manga, Music, Spirituality and late night walks!
 
@@ -29,7 +17,7 @@ My hobbies include watching Anime, Reading Manga, Music, Spirituality and late n
 dika@greyrat: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/hisokamorou.png" width="130px"/>
+<img align="left" src="img/hisoka.png" width="130px"/>
 
 ```csharp
 My Profile
@@ -80,7 +68,7 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 <p align = "justify">Interests and Passions. <br></p>
 <p align = "center">
      <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,go,php,laravel,prisma,htmx&perline=5"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,go,php,laravel,prisma,htmx&perline=5" alt="My Skills"/> 
     </a>
 </p>
 </div>
@@ -90,24 +78,20 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 <h2 align="center"> ✨Statistics👨‍💻 </h2>
 </div>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DikaArdnt&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark#gh-dark-mode-only" />
-  <img width="49%" height="195px" src="https://github-streak.dikaardnt.com?user=DikaArdnt&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" />
+    <img width="625em" src="./github-metrics.svg" />
 </div>
 <br>
-<p align="center">
-  <a href="https://github.com/DikaArdnt"><img src="https://github-profile-trophy.vercel.app/?username=DikaArdnt&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
-</p>
-
 <br>
 
 <!-- <br><br><br><br> -->
+
 ## **📫 Contact**
-<a href="https://github.com/DikaArdnt"><img align="right" width="100" src="img/rory.webp" /></a>
-**Please Contact me on Discord for a quick response:** [DikaArdnt](https://discord.com/users/808923620792991754)
+
+<a href="https://github.com/DikaArdnt"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
+response:** [DikaArdnt](https://discord.com/users/808923620792991754)
 
 **You can also email me here:** mail@dikaardnt.com
 
-[![](https://img.shields.io/github/followers/DikaArdnt?label=Followers&style=social)](https://github.com/DikaArdnt)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/808923620792991754)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/DikaArdnt)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mail@dikaardnt.com)
@@ -124,10 +108,14 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 <h1 align="center">Support Me 🎧🎤  </h1>
 
 <p align="center">
-⠀⠀⠀⠀⠀<img src="img/mushoku-tensei-chibi.png">
+    <a href="https://github.com/sponsors/DikaArdnt" target="_blank">
+        <img src="img/mushoku-tensei-chibi.png">
+    </a>
 </p>
 
 <br>
 <br>
 
-<a href="https://ko-fi.com/DikaArdnt" target="_blank"><img src="img/ko-fi.webp" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center"></a>
+<a href="https://ko-fi.com/DikaArdnt" target="_blank">
+    <img src="img/ko-fi.webp" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center">
+</a>
