@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.14893976702155" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="452.14893976702155" y="0" width="4.939290222874267" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.0882299898958" y="0" width="1.74528433400471" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.8335143239005" y="0" width="0.5616104360678613" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.3951247599684" y="0" width="0.3519831260559009" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="459.74710788602425" y="0" width="0.17263306159455455" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="459.91974094761883" y="0" width="0.047384295147911704" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="459.9671252427667" y="0" width="0.03287475723324067" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.14870040665505" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="452.14870040665505" y="0" width="4.939287608093574" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.08798801474865" y="0" width="1.7452834100792929" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.8332714248279" y="0" width="0.5616101387603417" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.3948815635882" y="0" width="0.3519829397217029" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="459.7468645033099" y="0" width="0.17287648679672452" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="459.9197409901067" y="0" width="0.04738427006342902" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="459.96712526017006" y="0" width="0.03287473982987366" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1512,7 +1512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Moebits/Moepictures</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Moepictures is an anime image board organized by tags.</div>
@@ -1985,7 +1985,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="80.22613065326634 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="81.00502512562815 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2007,10 +2007,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">104</div>
+                                        <div class="value">105</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 104 times</div>
+                                <div class="text">Repositories have been deployed 105 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2602,7 +2602,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Mar 2025, 07:38:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2025, 09:14:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
