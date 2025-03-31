@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.65912628837503" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="359.65912628837503" y="0" width="73.95449311528566" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="433.61361940366066" y="0" width="8.465022114692216" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="442.07864151835287" y="0" width="6.117438258642757" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.19607977699565" y="0" width="4.000319375070603" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.19639915206625" y="0" width="3.1322922023993582" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.3286913544656" y="0" width="2.7179021650644475" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.04659351953006" y="0" width="1.9534064804699407" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.6669090717365" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="359.6669090717365" y="0" width="73.94875695037864" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="433.61566602211514" y="0" width="8.464365538455315" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.0800315605705" y="0" width="6.116963769085977" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.19699532965643" y="0" width="4.000009096537825" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="452.19700442619427" y="0" width="3.1320492510403115" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.3290536772346" y="0" width="2.7176913552222968" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.0467450324569" y="0" width="1.9532549675431337" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1381,7 +1381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fufufufafafa/fufufafa-memorable-quotes</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1423,7 +1423,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DikaArdnt/erratum</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Error pages + Coming soon + Login all in one for any website</div>
@@ -1470,7 +1470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DikaArdnt/404-html</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">404 HTML Template</div>
@@ -1517,7 +1517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phisher98/cloudstream</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Android app for streaming and downloading media.</div>
@@ -1691,7 +1691,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.67 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="110.97999999999999 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1713,10 +1713,10 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">857</div>
+                                        <div class="value">858</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 857 times</div>
+                                <div class="text">Repositories have been deployed 858 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2010,7 +2010,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 163k out of 237m repositories</span>
+                                    <span class="gh">ranked 163k out of 238m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">83</div>
                                     </div>
@@ -2123,7 +2123,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 528k out of 237m repositories</span>
+                                    <span class="gh">ranked 528k out of 238m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">69</div>
                                     </div>
@@ -2607,7 +2607,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2025, 20:20:40 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2025, 21:09:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
