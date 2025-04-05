@@ -42,7 +42,7 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 <br>
 <br>
 
-<p align="right"><a href = "https://music.youtube.com/watch?v=7zBeQezaz4U&si=joHbXf4EG5-93Y0P"><img src = "https://i.ytimg.com/vi/7zBeQezaz4U/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>back number - クリスマスソング </b></p>
+<p align="right"><a href = "https://music.youtube.com/watch?v=sf0QFJTvOLM&si=joHbXf4EG5-93Y0P"><img src = "https://i.ytimg.com/vi/sf0QFJTvOLM/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>ヨルシカ - へび </b></p>
 <br>
 <br>
 
@@ -55,7 +55,7 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 <br>
 <br>
 
-<p align="left"><a href = "https://music.youtube.com/watch?v=LU3f8ZGfd5g&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/LU3f8ZGfd5g/maxresdefault.webp" width="170" align="right"></a><b><br><br>TOGENASHI TOGEARI "Bleeding Hearts" /Anime "GIRLS BAND CRY"</b></p>
+<p align="left"><a href = "https://music.youtube.com/watch?v=LU3f8ZGfd5g&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/LU3f8ZGfd5g/maxresdefault.webp" width="170" align="right"></a><b><br><br>TOGENASHI TOGEARI "Bleeding Hearts"</b></p>
 
 <br>
 </div>
