@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            34613 Commits
+                            34615 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.94384933713536" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="359.94384933713536" y="0" width="73.74558353914402" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="433.6894328762794" y="0" width="8.441109785535241" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="442.1305426618147" y="0" width="6.100157477180385" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.230700138995" y="0" width="3.986365467586742" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.21706560658174" y="0" width="3.1234439795424325" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.3405095861242" y="0" width="2.711601993265082" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.05211157938925" y="0" width="1.9478884206107359" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.944503643963" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="359.944503643963" y="0" width="73.74510128754329" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="433.6896049315063" y="0" width="8.441054585772616" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.1306595172789" y="0" width="6.10011758583277" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.2307771031116" y="0" width="3.986339399162904" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="452.21711650227456" y="0" width="3.1234235541042352" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.3405400563788" y="0" width="2.7115842610248717" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.0521243174037" y="0" width="1.9478756825962837" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1364,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bytedream/stream-bypass</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🌍 A multi-browser addon / extension for multiple streaming providers which redirects directly to the source video</div>
@@ -1657,7 +1657,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Apr 2025, 13:12:56 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2025, 14:09:33 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
