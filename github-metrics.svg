@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            34647 Commits
+                            34649 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="360.26707430994446" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="360.26707430994446" y="0" width="73.51664495720603" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="433.7837192671505" y="0" width="8.412013095321608" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="442.19573236247214" y="0" width="6.079130100819038" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.2748624632912" y="0" width="3.969051275542261" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.24391373883344" y="0" width="3.112677399770171" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="455.3565911386036" y="0" width="2.7022348548124095" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.05882599341606" y="0" width="1.9411740065839973" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="360.2669402796305" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="360.2669402796305" y="0" width="73.51659495012318" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="433.7835352297536" y="0" width="8.412007373348901" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.1955426031025" y="0" width="6.079125965707011" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.27466856880955" y="0" width="3.969048575736303" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="452.2437171445459" y="0" width="3.112675282482082" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="455.35639242702797" y="0" width="2.702434886802664" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.05882731383065" y="0" width="1.9411726861694238" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1396,7 +1396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>benjamincrozat/legacy-blog</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source code for Benjamin Crozat's blog built using the TALL stack and getting more than 45,000 monthly visitors.</div>
@@ -1470,7 +1470,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        18.3k
+                                        18.4k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1692,7 +1692,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2025, 17:09:51 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2025, 18:07:54 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
