@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.0668986569998" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="297.0668986569998" y="0" width="125.26093482973963" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="422.3278334867394" y="0" width="32.31938616660943" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.6472196533488" y="0" width="1.6447915958471122" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="456.292011249196" y="0" width="1.2879774400132953" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="457.57998868920924" y="0" width="1.1178628779439872" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.6978515671532" y="0" width="0.8032275775848192" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.501079144738" y="0" width="0.4989208552619728" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="297.0440093002878" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="297.0440093002878" y="0" width="125.28672687154149" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="422.3307361718293" y="0" width="32.31689591959092" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.64763209142023" y="0" width="1.644664862704765" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="456.292296954125" y="0" width="1.2878781998246553" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.58017515394965" y="0" width="1.117776745284024" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.6979518992337" y="0" width="0.8031656879477465" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.5011175871814" y="0" width="0.49888241281860823" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wessleyn/terminal-portfolio</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terminal themed portfolio + blog + Admin CMS built  with nextjs 15, Edge Auth and cloudflare free email</div>
@@ -1690,7 +1690,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2025, 02:07:58 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2025, 03:10:18 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
