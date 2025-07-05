@@ -25,7 +25,7 @@ My Profile
 Host: dikaardnt.com
 Username: DikaArdnt
 WhoamI: Normal People.
-Languages: JavaScript, TypeScript, PHP
+Languages: JavaScript & PHP
 FavouriteAnime: 無職転生 (Mushoku Tensei).
 Waifu: タツマキ (Tatsumaki)
 Waifu(2): ロゥリィ・マーキュリー (Rory Mercury)
