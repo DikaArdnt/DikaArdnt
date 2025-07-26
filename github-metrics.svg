@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            33627 Commits
+                            33629 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -101,7 +101,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            290 Issues opened
+                            291 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.01643673799552" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="246.01643673799552" y="0" width="117.21540786212461" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="363.2318446001201" y="0" width="37.11213759707754" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="400.34398219719765" y="0" width="35.997180629153746" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="436.34116282635136" y="0" width="16.454002139637627" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.795164965989" y="0" width="5.417225288510988" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.2123902545" y="0" width="1.0635856012800398" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.2759758557801" y="0" width="0.7240241442199253" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.01398353088663" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="246.01398353088663" y="0" width="117.21423902285659" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="363.2282225537432" y="0" width="37.116354516581275" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="400.3445770703245" y="0" width="35.99682167533509" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="436.3413987456596" y="0" width="16.453838064929634" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="452.79523681058924" y="0" width="5.4171712694553324" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.2124080800446" y="0" width="1.0635749955018543" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.2759830755465" y="0" width="0.7240169244536319" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -316,12 +316,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 90 commits)</small>
+                    <small class="h-details">(computed from last 98 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 53.2 characters per line of code written</li>
+                        <li>Has approximately 52.1 characters per line of code written</li>
                         <li>Mostly pushes code around 04:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DikaArdnt/ytdl-cli</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">YouTube Audio &amp; Video Downloader CLI</div>
@@ -1662,7 +1662,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2025, 16:09:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2025, 17:09:18 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
