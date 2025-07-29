@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            33639 Commits
+                            33640 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.01284179178086" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="246.01284179178086" y="0" width="117.21369503719153" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="363.2265368289724" y="0" width="37.11831709931049" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="400.34485392828293" y="0" width="35.99665461581108" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="436.341508544094" y="0" width="16.453761703455836" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.7952702475498" y="0" width="5.417146128623124" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.21241637617294" y="0" width="1.0635700595012791" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.2759864356742" y="0" width="0.7240135643257887" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.01092907974117" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="246.01092907974117" y="0" width="117.21636014803607" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="363.22728922777725" y="0" width="37.11802851009907" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="400.34531773787637" y="0" width="35.9963747473531" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="436.3416924852295" y="0" width="16.45363377798707" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="452.7953262632165" y="0" width="5.417104011144437" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.212430274361" y="0" width="1.0635617904075072" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.2759920647685" y="0" width="0.7240079352315865" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1386,7 +1386,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gofiber/recipes</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📁 Examples for 🚀 Fiber</div>
@@ -1439,7 +1439,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gofiber/storage</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦 Premade storage drivers for 🚀 Fiber</div>
@@ -1685,7 +1685,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2025, 00:13:39 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jul 2025, 01:14:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
