@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coollabsio/coolify</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.</div>
@@ -1497,7 +1497,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>honojs/middleware</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">monorepo for Hono third-party middleware/helpers/wrappers</div>
@@ -1684,7 +1684,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2025, 15:14:42 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2025, 16:17:22 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
