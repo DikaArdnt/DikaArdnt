@@ -90,7 +90,7 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 <a href="https://github.com/DikaArdnt"><img align="right" width="100" src="img/myLove2.webp" /></a> **Please Contact me on Discord for a quick
 response:** [DikaArdnt](https://discord.com/users/808923620792991754)
 
-**You can also email me here:** mail@dikaardnt.com
+**You can also email me here:** [mail@dikaardnt.com](mailto:mail@dikaardnt.com)
 
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/808923620792991754)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/DikaArdnt)
@@ -104,18 +104,3 @@ response:** [DikaArdnt](https://discord.com/users/808923620792991754)
 </div>
 <br> 
 <br>
-
-<h1 align="center">Support Me 🎧🎤  </h1>
-
-<p align="center">
-    <a href="https://github.com/sponsors/DikaArdnt" target="_blank">
-        <img src="img/mushoku-tensei-chibi.png">
-    </a>
-</p>
-
-<br>
-<br>
-
-<a href="https://ko-fi.com/DikaArdnt" target="_blank">
-    <img src="img/ko-fi.webp" alt="Buy Me A Coffee"  style="height: 60px !important;width: 217px !important;" align="center">
-</a>
