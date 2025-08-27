@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.26053818088593" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="231.26053818088593" y="0" width="118.6694749006645" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="349.9300130815504" y="0" width="46.73547336603905" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="396.66548644758944" y="0" width="34.19996394713458" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="430.865450394724" y="0" width="22.361855676518868" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="453.2273060712429" y="0" width="5.092303800019518" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="458.3196098712624" y="0" width="0.9997924602713161" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.3194023315337" y="0" width="0.6805976684662535" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="231.26226100103722" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="231.26226100103722" y="0" width="118.67035895189225" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="349.9326199529295" y="0" width="46.73239467193967" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="396.6650146248692" y="0" width="34.200218726387135" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="430.8652333512563" y="0" width="22.362022265491994" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="453.22725561674827" y="0" width="5.092341736122549" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="458.3195973528708" y="0" width="0.9997999084188092" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.3193972612896" y="0" width="0.6806027387103488" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1391,7 +1391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Aetherinox/blocklists</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Firewall / Host blocklists / ipsets which include blocks against privacy invaders, brute-force / port scanners, geographical continent &amp; country databases. Support for BT Transmission. Updated multiple times a day.</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>runk/mmdb-lib</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Maxmind database (MMDB) library</div>
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sapics/ip-location-db</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ip to location database by ASN, GeoFeed, Whois, iptoasn.com, db-ip lite, GeoLite2</div>
@@ -1544,7 +1544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WinMerge/winmerge</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.</div>
@@ -1684,7 +1684,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Aug 2025, 19:16:40 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Aug 2025, 20:20:45 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
