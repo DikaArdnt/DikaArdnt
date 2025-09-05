@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.4342120097773" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="444.4342120097773" y="0" width="7.73887005394611" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="452.17308206372337" y="0" width="4.659082424246456" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="456.83216448796986" y="0" width="1.8070895930923387" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="458.6392540810622" y="0" width="0.47826489753225726" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.1175189785945" y="0" width="0.4012535218055934" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.5187725004001" y="0" width="0.24293336955077793" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="459.7617058699508" y="0" width="0.23829413004917172" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.43425919140134" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.43425919140134" y="0" width="7.738870875513054" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="452.1731300669144" y="0" width="4.659082918859763" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="456.8322129857741" y="0" width="1.8070897849349543" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.6393027707091" y="0" width="0.478264948305384" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.1175677190145" y="0" width="0.401253564403108" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.5188212834176" y="0" width="0.24288456123565005" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="459.76170584465325" y="0" width="0.23829415534673823" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1468,7 +1468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RealSyferX/Larapi---A-Laragon-Patcher</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Patcher for Laragon, Free</div>
@@ -1661,7 +1661,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Sept 2025, 14:08:59 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2025, 15:12:10 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
