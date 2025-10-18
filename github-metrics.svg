@@ -1370,7 +1370,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ziadoz/awesome-php</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of amazingly awesome PHP libraries, resources and shiny things.</div>
@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spamscanner/spamscanner</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs.</div>
@@ -1470,7 +1470,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laravel/framework</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Laravel Framework.</div>
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TibixDev/winboat</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Windows apps on 🐧 Linux with ✨ seamless integration</div>
@@ -1663,7 +1663,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Oct 2025, 05:07:46 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2025, 06:08:11 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
