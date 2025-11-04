@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.7265669114379" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.7265669114379" y="0" width="6.843696961040935" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.5702638724788" y="0" width="4.994226932860306" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.56449080533906" y="0" width="2.660591594178916" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.225082399518" y="0" width="1.7196116923886515" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="458.9446940919066" y="0" width="0.4229428848136665" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.36763697672023" y="0" width="0.35483959397763454" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.7224765706979" y="0" width="0.2775234293020209" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.7269744766231" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.7269744766231" y="0" width="6.843535484592928" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.5705099612161" y="0" width="4.994109094500389" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.5646190557165" y="0" width="2.6605288177464304" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.22514787346296" y="0" width="1.7195711182969553" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="458.9447189917599" y="0" width="0.42293290551225404" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.36765189727214" y="0" width="0.35483122156757985" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.7224831188397" y="0" width="0.277516881160299" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1387,7 +1387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guanguans/favorite-link</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">❤️ 每天收集喜欢的开源项目。</div>
@@ -1440,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edoardottt/awesome-hacker-search-engines</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more</div>
@@ -1686,7 +1686,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Nov 2025, 07:42:51 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2025, 09:24:42 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
