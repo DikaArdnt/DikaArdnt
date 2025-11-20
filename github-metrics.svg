@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.924370464352" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.924370464352" y="0" width="6.765327619693373" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.6896980840454" y="0" width="4.93703645854553" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.6267345425909" y="0" width="2.630124317206011" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.256858859797" y="0" width="1.699919874286062" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="458.956778734083" y="0" width="0.4180996318906962" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.3748783659737" y="0" width="0.350776213406816" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.72565457938055" y="0" width="0.2743454206194728" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.9255351563049" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.9255351563049" y="0" width="6.764866171251874" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.69040132755674" y="0" width="4.936699713910609" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.62710104146737" y="0" width="2.6299449220849835" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.2570459635524" y="0" width="1.6998039264087736" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="458.9568498899611" y="0" width="0.41807111421433624" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.37492100417546" y="0" width="0.3507522877159861" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.7256732918915" y="0" width="0.27432670810857995" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1397,7 +1397,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thomasleplus/bookmarklets</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Browser bookmarklets.</div>
@@ -1696,7 +1696,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Nov 2025, 01:14:12 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Nov 2025, 02:03:12 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
