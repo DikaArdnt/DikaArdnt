@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.897213563884" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.897213563884" y="0" width="6.754634655260249" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.65184821914426" y="0" width="4.965363592858625" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.6172118120029" y="0" width="2.643982730010224" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.2611945420131" y="0" width="1.6972330594299727" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="458.9584276014431" y="0" width="0.4174388029191182" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.37586640436217" y="0" width="0.3502217927216999" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.72608819708387" y="0" width="0.2739118029160914" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.8984606590688" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.8984606590688" y="0" width="6.754142123099775" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.6526027821686" y="0" width="4.965001530159051" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.6176043123276" y="0" width="2.64378993697363" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.26139424930125" y="0" width="1.697109301164981" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="458.9585035504662" y="0" width="0.4174083642579677" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.3759119147242" y="0" width="0.3501962553677173" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.7261081700919" y="0" width="0.2738918299080821" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1365,7 +1365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alam00000/bentopdf</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Privacy First PDF Toolkit</div>
@@ -1399,7 +1399,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        135
+                                        136
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1418,7 +1418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remotion-dev/github-unwrapped</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Your coding year in review</div>
@@ -1465,7 +1465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openstatusHQ/openstatus</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🫖 Status page with uptime monitoring &amp; API monitoring as code   🫖</div>
@@ -1659,7 +1659,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Dec 2025, 01:12:49 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2025, 02:08:12 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
