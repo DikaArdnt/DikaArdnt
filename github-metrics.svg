@@ -1364,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jonaskello/tsconfig-paths</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Load node modules according to tsconfig paths, in run-time or via API.</div>
@@ -1657,7 +1657,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Dec 2025, 19:15:43 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2025, 20:19:03 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
