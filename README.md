@@ -5,11 +5,11 @@
 </div>
 
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+Dika here! I'm a Software Engineer from Indonesia, currently working in PHP and Javascript. I primarily do backend development. I don't have anything special, but I hope to be able to change that in the future.
 
-Dika here! I'm a Software Engineer from Indonesia, currently working in PHP (Laravel) and Javascript. I primarily do backend development. I don't have
-anything special, but I hope to be able to change that in the future.
+My hobbies include watching Anime, Reading Manga, Music, Spirituality, and late-night walks!
 
-My hobbies include watching Anime, Reading Manga, Music, Spirituality and late night walks!
+If you'd like to know more about me, feel free to visit my website: [dikaardnt.com](https://dikaardnt.com).
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
@@ -29,7 +29,6 @@ Languages: JavaScript & PHP
 FavouriteAnime: 無職転生 (Mushoku Tensei).
 Waifu: タツマキ (Tatsumaki)
 Waifu(2): ロゥリィ・マーキュリー (Rory Mercury)
-Loves: タツマキ (Tatsumaki) (❤️ ω ❤️).
 Pronouns: He-Him.
 Location: Indonesian, Jawa Timur.
 FavouriteSong: 美波 (Minami) - Amewomatsu.
@@ -42,7 +41,7 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 <br>
 <br>
 
-<p align="right"><a href = "https://music.youtube.com/watch?v=sf0QFJTvOLM&si=joHbXf4EG5-93Y0P"><img src = "https://i.ytimg.com/vi/sf0QFJTvOLM/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>ヨルシカ - へび </b></p>
+<p align="right"><a href = "https://music.youtube.com/watch?v=5_pdEtZS08A"><img src = "https://i.ytimg.com/vi/5_pdEtZS08A/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>それは小さな光のような - SAYURI </b></p>
 <br>
 <br>
 
@@ -67,9 +66,22 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 <div align = "center">
 <p align = "justify">Interests and Passions. <br></p>
 <p align = "center">
-     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,go,php,laravel,prisma,htmx&perline=5" alt="My Skills"/> 
+     <a href="https://dikaardnt.com/projects">
+        <img style="margin: 10px;"src="https://skillicons.dev/icons?i=js,ts,react,astro,nextjs,vue,express,mongodb,nodejs,bun,git,vscode,go,php,laravel,prisma,mysql,postgresql,sqlite&perline=5" alt="My Skills"/> 
     </a>
+</p>
+</div>
+<br>
+
+<div>
+<h2 align="center"> 💼 Active Projects </h2>
+</div>
+
+| Name | Description | Link |
+|---------|-------------|------|
+| **Hisoka** | Hisoka is a WhatsApp Bot hosting service built to streamline automation management. | [Show](https://hisoka.net) |
+| **KuaLat** | Boost your campaigns by creating dynamic Links, QR codes and Bio Pages and get instant analytics. | [Show](https://kua.lat) |
+
 </p>
 </div>
 <br>
@@ -95,12 +107,3 @@ response:** [DikaArdnt](https://discord.com/users/808923620792991754)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/808923620792991754)
 [![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/DikaArdnt)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:mail@dikaardnt.com)
-
-<div>
-    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-    <div align="center">
-        <img src="https://media1.tenor.com/m/JhjlD_2l5D8AAAAC/rory-mercury.gif" width="500"/>
-    </div>
-</div>
-<br> 
-<br>
