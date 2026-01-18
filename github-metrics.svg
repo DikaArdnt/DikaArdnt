@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imgly/background-removal-js</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.</div>
@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cozmo/jsQR</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.</div>
@@ -1445,7 +1445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>code4fukui/jsQR-es</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A pure javascript QR code reading library. This library takes in raw images and will locate, extract and parse any QR code found within.</div>
@@ -1621,7 +1621,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jan 2026, 04:08:49 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2026, 05:09:14 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
