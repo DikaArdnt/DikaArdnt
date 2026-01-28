@@ -1356,7 +1356,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>holepunchto/unicode-to-plain-text</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert fancy Unicode text to plain ASCII with smart language preservation</div>
@@ -1409,7 +1409,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>certbot/certbot</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.</div>
@@ -1462,7 +1462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>letsencrypt/boulder</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An ACME-based certificate authority, written in Go.</div>
@@ -1637,7 +1637,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jan 2026, 12:19:10 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jan 2026, 13:18:59 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
