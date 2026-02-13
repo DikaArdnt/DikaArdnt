@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.2273129955292" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.2273129955292" y="0" width="6.624264024193745" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="449.8515770197229" y="0" width="4.869527530937571" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.72110455066047" y="0" width="2.5929514433999357" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.3140559940604" y="0" width="1.6644749079802117" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="458.97853090204063" y="0" width="0.40938185195940496" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="459.387912754" y="0" width="0.34346219157956953" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.73137494557955" y="0" width="0.26862505442038626" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.2404794478071" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.2404794478071" y="0" width="6.6190640192018355" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="449.85954346700896" y="0" width="4.865704982896515" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.72524844990545" y="0" width="2.5909159930615715" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.316164442967" y="0" width="1.6631683057978721" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="458.97933274876493" y="0" width="0.40906048981773746" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="459.3883932385827" y="0" width="0.3431925759506902" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.73158581453333" y="0" width="0.2684141854666676" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1344,7 +1344,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        68
+                                        69
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1482,7 +1482,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nutgram/nutgram</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Telegram bot framework that doesn't drive you nuts.</div>
@@ -1604,7 +1604,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Feb 2026, 16:31:20 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Feb 2026, 17:27:52 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
