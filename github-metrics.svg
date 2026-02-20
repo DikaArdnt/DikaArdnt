@@ -1329,7 +1329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abraham/twitteroauth</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most popular PHP library for use with the Twitter OAuth REST API.</div>
@@ -1382,7 +1382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JayBizzle/Crawler-Detect</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent</div>
@@ -1435,7 +1435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>prisma/prisma</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB</div>
@@ -1610,7 +1610,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Feb 2026, 04:12:58 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2026, 05:12:53 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
