@@ -1346,7 +1346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thomaspark/bootswatch</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Themes for Bootstrap</div>
@@ -1399,7 +1399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wenzhixin/bootstrap-table</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extended table for integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)</div>
@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tailwindlabs/tailwindcss</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility-first CSS framework for rapid UI development.</div>
@@ -1505,7 +1505,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twbs/bootstrap</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.</div>
@@ -1627,7 +1627,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Mar 2026, 00:51:06 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Mar 2026, 01:43:47 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
