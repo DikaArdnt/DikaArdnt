@@ -50,3 +50,6 @@ jobs:
               plugin_people_types: followers, following
               plugin_stars: yes
               plugin_stars_limit: 4
+              plugin_sponsors: yes
+              plugin_sponsors_sections: goal, list
+              plugin_sponsors_past: yes
