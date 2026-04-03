@@ -1329,7 +1329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RobThree/TwoFactorAuth</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PHP library for Two Factor Authentication (TFA / 2FA)</div>
@@ -1382,7 +1382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dani-garcia/vaultwarden</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</div>
@@ -1621,7 +1621,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2026, 17:32:18 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2026, 18:28:37 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
