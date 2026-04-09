@@ -4,17 +4,24 @@
     </p>
 </div>
 
+<br>
+
 <h2 align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 Dika here! I'm a Software Engineer from Indonesia, currently working in PHP and Javascript. I primarily do backend development. I don't have anything special, but I hope to be able to change that in the future.
-
+<br>
+<br>
 My hobbies include watching Anime, Reading Manga, Music, Spirituality, and late-night walks!
+<br>
+<br>
 
 If you'd like to know more about me, feel free to visit my website: [dikaardnt.com](https://dikaardnt.com).
+
+<br>
 
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```sh
-dika@greyrat: ~/my_readme (main⚡)$ neofetch
+dika@greyrat: ~/my_readme (main⚡)$ profile
 ```
 
 <img align="left" src="img/hisoka.png" width="130px"/>
@@ -35,11 +42,15 @@ FavouriteSong: 美波 (Minami) - Amewomatsu.
 Hobbies: Watching Anime, Read Manga, and Listening Music
 ```
 
+<br>
+<br>
+<br>
+
 <div>
-<br>
-<br>
-<br>
-<br>
+
+<div>
+<h2 align="center"> 🎶 Favorite Songs </h2>
+</div>
 
 <p align="right"><a href = "https://music.youtube.com/watch?v=5_pdEtZS08A"><img src = "https://i.ytimg.com/vi/5_pdEtZS08A/maxresdefault.jpg" width = "170" align = "left"/></a><b><br>それは小さな光のような - SAYURI </b></p>
 <br>
@@ -56,8 +67,24 @@ Hobbies: Watching Anime, Read Manga, and Listening Music
 
 <p align="left"><a href = "https://music.youtube.com/watch?v=LU3f8ZGfd5g&si=ZLzWu0TZwcZwPyvO"><img  src ="https://i.ytimg.com/vi_webp/LU3f8ZGfd5g/maxresdefault.webp" width="170" align="right"></a><b><br><br>TOGENASHI TOGEARI "Bleeding Hearts"</b></p>
 
-<br>
 </div>
+
+<br>
+<br>
+<br>
+
+<div>
+<h2 align="center"> 🎧 Listening </h2>
+</div>
+
+<div align="center">
+
+![Last.fm](https://lastfm-recently-played.vercel.app/api?user=DikaArdnt&loved=true&show_user=always&header_style=compact_stats&count=10&maxage=60&width=620)
+
+</div>
+
+<br>
+<br>
 <br>
 
 <div>
