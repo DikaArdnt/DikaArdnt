@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mateogon/pdf-narrator</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert your PDFs and EPUBs into audiobooks effortlessly. Features intelligent text extraction, customizable text-to-speech settings, and efficient processing for low-resource systems.</div>
@@ -1414,7 +1414,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ilhamfp/pasal</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pasal.id - The first open, AI-native Indonesian legal platform. MCP server + REST API + web app giving AI grounded access Indonesian laws.</div>
@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anthropics/claude-for-legal</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A suite of plugins for legal workflows</div>
@@ -1659,7 +1659,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2026, 18:30:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2026, 20:56:00 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
