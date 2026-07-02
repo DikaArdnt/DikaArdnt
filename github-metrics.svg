@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fmhy/edit</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Make changes to FMHY</div>
@@ -1408,7 +1408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kstmostofa/laravel-whatsapp</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Laravel WhatsApp - Dual-backend WhatsApp integration for Laravel. Meta Cloud API + whatsapp-web.js sidecar, behind a single facade, with a polished Livewire admin UI.</div>
@@ -1461,7 +1461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>datalab-to/marker</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convert PDF to markdown + JSON quickly with high accuracy</div>
@@ -1653,7 +1653,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jul 2026, 00:32:26 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2026, 02:04:19 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
