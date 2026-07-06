@@ -1346,7 +1346,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vinkius-labs/laravel-page-speed</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Package to optimize your site automatically which results in a 35%+ optimization. Laravel Page Speed delivers an end-to-end optimization pipeline for Blade-rendered pages and REST APIs with measurable gains in latency, bandwidth, and resiliency.</div>
@@ -1399,7 +1399,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Momotz4G/simple-music-player-2</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A music player built with flutter engine playback and can stream or download up to HI-RES quality. Support USB Bit-Perfect Audio.</div>
@@ -1452,7 +1452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stefangabos/world_countries</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric country codes as defined by the ISO 3166 standard, available in CSV, JSON , PHP, SQL and XML formats, in multiple languages and with national flags included; also available are the ISO 3166-2 codes of provinces/ states associated with the countries</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jul 2026, 02:26:49 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jul 2026, 04:17:23 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
