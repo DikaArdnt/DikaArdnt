@@ -1284,7 +1284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scssphp/scssphp</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SCSS compiler written in PHP</div>
@@ -1443,7 +1443,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wikimedia/composer-merge-plugin</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Merge one or more additional composer.json files at Composer runtime</div>
@@ -1565,7 +1565,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Aug 2026, 18:14:01 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Aug 2026, 19:16:20 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
