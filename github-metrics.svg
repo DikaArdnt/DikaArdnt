@@ -1272,7 +1272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remotion-dev/remotion</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎥      Make videos programmatically with React</div>
@@ -1378,7 +1378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>anysearch-ai/anysearch-skill</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unified real-time search engine skill for AI agents. Supports general web search, vertical domain search, parallel batch search, and full-page content extraction.</div>
@@ -1431,7 +1431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dsebastien/ai-skill-scholar</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Agent Skills suite for research paper discovery via OpenAlex (free, no API key): scholar-search, scholar-citations (references + citing papers), literature-review (two-pass screening orchestrator). Complements dsebastien/ai-skill-arxiv. Stdlib Python only. https://agentskills.io-compatible.</div>
@@ -1553,7 +1553,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2026, 01:55:17 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2026, 04:05:46 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
